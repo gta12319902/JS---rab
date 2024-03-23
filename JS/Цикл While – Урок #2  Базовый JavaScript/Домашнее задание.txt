@@ -1,0 +1,4 @@
+﻿1. Прочесть и ознакомиться https://learn.javascript.ru/while-for
+2. Прочесть и ознакомиться https://javascript.ru/while
+
+3. Создайте минимум два цикла с разными условиями и в одном выведите данные через document.write, а во втором через alert

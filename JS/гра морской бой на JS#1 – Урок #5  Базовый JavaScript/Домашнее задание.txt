@@ -1,0 +1,2 @@
+﻿1. Прочесть и ознакомиться https://learn.javascript.ru/logical-ops
+2. Прочесть и ознакомитьсяhttps://learn.javascript.ru/comparison

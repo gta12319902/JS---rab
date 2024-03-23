@@ -1,0 +1,2 @@
+﻿1. Прочесть и ознакомиться https://javascript.ru/math.floor
+2. Прочесть и ознакомиться https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Math/random
